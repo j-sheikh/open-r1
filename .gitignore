@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+*.pth
+*.pt
+*.safetensors
+projects/2025_Research/open-r1/data/
+
 # Distribution / packaging
 .Python
 build/
