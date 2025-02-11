@@ -1,1 +1,1 @@
-This is a test file to verify private Git account.
+This is a test file.
